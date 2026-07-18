@@ -1,0 +1,147 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Zulkharith — space banner">
+  <defs>
+    <radialGradient id="nebula1" cx="20%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#3b1d6e" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#3b1d6e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebula2" cx="85%" cy="70%" r="55%">
+      <stop offset="0%" stop-color="#0e4b63" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0e4b63" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#04081f"/>
+      <stop offset="100%" stop-color="#0a1130"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="planetGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="cometTail" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#e0f2fe" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#e0f2fe" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .star { fill: #e2e8f0; animation: twinkle 3s ease-in-out infinite; }
+      .star.fast { animation-duration: 2s; }
+      .star.slow { animation-duration: 4.5s; }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.25; }
+        50% { opacity: 1; }
+      }
+      .comet1 { animation: shoot1 7s linear infinite; }
+      .comet2 { animation: shoot2 11s linear infinite; }
+      @keyframes shoot1 {
+        0%   { transform: translate(-150px, 40px); opacity: 0; }
+        4%   { opacity: 1; }
+        18%  { transform: translate(1350px, 150px); opacity: 0; }
+        100% { transform: translate(1350px, 150px); opacity: 0; }
+      }
+      @keyframes shoot2 {
+        0%, 55% { transform: translate(1350px, 20px); opacity: 0; }
+        58%  { opacity: 1; }
+        72%  { transform: translate(-150px, 130px); opacity: 0; }
+        100% { transform: translate(-150px, 130px); opacity: 0; }
+      }
+      .orbiter { animation: orbit 9s linear infinite; transform-origin: 1010px 160px; }
+      @keyframes orbit {
+        from { transform: rotate(0deg); }
+        to   { transform: rotate(360deg); }
+      }
+      .planet-bob { animation: bob 6s ease-in-out infinite; }
+      @keyframes bob {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-8px); }
+      }
+    </style>
+  </defs>
+
+  <!-- deep space background -->
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <rect width="1200" height="320" fill="url(#nebula1)"/>
+  <rect width="1200" height="320" fill="url(#nebula2)"/>
+
+  <!-- starfield -->
+  <g>
+    <circle class="star" cx="40" cy="50" r="1.6"/>
+    <circle class="star fast" cx="110" cy="210" r="1.2" style="animation-delay:.4s"/>
+    <circle class="star slow" cx="180" cy="90" r="2" style="animation-delay:1.1s"/>
+    <circle class="star" cx="240" cy="270" r="1.3" style="animation-delay:.8s"/>
+    <circle class="star fast" cx="300" cy="40" r="1.5" style="animation-delay:1.6s"/>
+    <circle class="star" cx="355" cy="160" r="1.1" style="animation-delay:.2s"/>
+    <circle class="star slow" cx="420" cy="250" r="1.8" style="animation-delay:2.2s"/>
+    <circle class="star" cx="475" cy="70" r="1.2" style="animation-delay:1.3s"/>
+    <circle class="star fast" cx="530" cy="290" r="1.4" style="animation-delay:.6s"/>
+    <circle class="star" cx="585" cy="35" r="1.7" style="animation-delay:1.9s"/>
+    <circle class="star slow" cx="640" cy="255" r="1.2" style="animation-delay:.9s"/>
+    <circle class="star" cx="700" cy="60" r="1.5" style="animation-delay:2.6s"/>
+    <circle class="star fast" cx="755" cy="200" r="1.1" style="animation-delay:1.4s"/>
+    <circle class="star" cx="810" cy="45" r="1.9" style="animation-delay:.3s"/>
+    <circle class="star slow" cx="870" cy="280" r="1.3" style="animation-delay:1.7s"/>
+    <circle class="star" cx="930" cy="70" r="1.4" style="animation-delay:2.4s"/>
+    <circle class="star fast" cx="1000" cy="35" r="1.6" style="animation-delay:.7s"/>
+    <circle class="star" cx="1060" cy="240" r="1.2" style="animation-delay:1.2s"/>
+    <circle class="star slow" cx="1120" cy="90" r="1.8" style="animation-delay:2s"/>
+    <circle class="star" cx="1170" cy="200" r="1.3" style="animation-delay:.5s"/>
+    <circle class="star fast" cx="75" cy="140" r="1.1" style="animation-delay:2.8s"/>
+    <circle class="star" cx="215" cy="180" r="1" style="animation-delay:1s"/>
+    <circle class="star slow" cx="390" cy="110" r="1.2" style="animation-delay:.1s"/>
+    <circle class="star" cx="560" cy="130" r="1" style="animation-delay:2.1s"/>
+    <circle class="star fast" cx="665" cy="170" r="1.3" style="animation-delay:1.5s"/>
+    <circle class="star" cx="895" cy="150" r="1.1" style="animation-delay:.35s"/>
+    <circle class="star slow" cx="1145" cy="290" r="1.5" style="animation-delay:1.8s"/>
+    <circle class="star" cx="140" cy="300" r="1.2" style="animation-delay:2.5s"/>
+    <circle class="star fast" cx="500" cy="185" r="1" style="animation-delay:.95s"/>
+    <circle class="star" cx="960" cy="300" r="1.4" style="animation-delay:1.65s"/>
+  </g>
+
+  <!-- shooting stars -->
+  <g class="comet1">
+    <rect x="-90" y="-1.5" width="90" height="3" rx="1.5" fill="url(#cometTail)" transform="rotate(4)"/>
+    <circle r="3" fill="#f0f9ff"/>
+  </g>
+  <g class="comet2">
+    <rect x="0" y="-1.2" width="70" height="2.4" rx="1.2" fill="url(#cometTail)" transform="rotate(176)"/>
+    <circle r="2.4" fill="#f0f9ff"/>
+  </g>
+
+  <!-- ringed planet -->
+  <g class="planet-bob">
+    <ellipse cx="1010" cy="160" rx="86" ry="24" fill="none" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="3" transform="rotate(-18 1010 160)"/>
+    <circle cx="1010" cy="160" r="46" fill="url(#planetGrad)"/>
+    <ellipse cx="994" cy="146" rx="16" ry="9" fill="#a78bfa" opacity="0.35"/>
+    <ellipse cx="1010" cy="160" rx="86" ry="24" fill="none" stroke="#7dd3fc" stroke-opacity="0.7" stroke-width="1.4" stroke-dasharray="4 7" transform="rotate(-18 1010 160)"/>
+    <g class="orbiter">
+      <circle cx="1010" cy="98" r="4" fill="#fbbf24"/>
+    </g>
+  </g>
+
+  <!-- small moon left -->
+  <circle cx="150" cy="238" r="14" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <circle cx="145" cy="233" r="3.5" fill="#334155"/>
+  <circle cx="156" cy="243" r="2.2" fill="#334155"/>
+
+  <!-- title -->
+  <g filter="url(#glow)">
+    <text x="600" y="150" text-anchor="middle"
+          font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800"
+          letter-spacing="10" fill="url(#titleGrad)">ZULKHARITH</text>
+  </g>
+  <text x="600" y="196" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="500"
+        letter-spacing="3" fill="#94a3b8">FULL-STACK DEVELOPER · CS STUDENT @ UiTM</text>
+  <text x="600" y="232" text-anchor="middle"
+        font-family="Consolas, Monaco, monospace" font-size="15"
+        letter-spacing="2" fill="#38bdf8" opacity="0.85">~ exploring the code universe as @Zack1ns ~</text>
+</svg>
