@@ -2,17 +2,19 @@
 
 <img src="assets/space-banner.svg" alt="Zulkharith — Full-Stack Developer" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Final+Year+CS+Student+%40+UiTM+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+HireHub+%E2%80%94+ML+Job+Portal+%F0%9F%92%BC;PHP+%E2%80%A2+MySQL+%E2%80%A2+JavaScript+%E2%80%A2+Flutter" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+Student+%40+UiTM+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;Certified+Associate+Data+Analyst+%F0%9F%93%8A;Building+HireHub+%E2%80%94+ML+Job+Portal+%F0%9F%92%BC;PHP+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+JavaScript" alt="Typing intro"/>
 
 </div>
 
 ## 🪐 About Me
 
-- 🎓 Final-year **Computer Science** student at **Universiti Teknologi MARA (UiTM)**
+- 🎓 **Computer Science** student at **Universiti Teknologi MARA (UiTM)**, Kampus Jasin Melaka
 - 🚀 Currently shipping **[HireHub](https://github.com/Zack1ns/hirehub)** — a job portal with a from-scratch Random Forest career predictor
+- 📊 **DataCamp-certified Associate Data Analyst** — data cleaning, visualization, statistical analysis & BI
 - 🛰️ I like building things end-to-end: frontend, backend, database, and the ML in between
-- 🌱 Exploring mobile development with **Flutter**
-- 📫 Reach me: [2023268156@student.uitm.edu.my](mailto:2023268156@student.uitm.edu.my)
+- 🗣️ Trilingual: Bahasa Melayu · English · basic Mandarin
+- 💼 Open to **internships** and junior **software development / data analytics** roles — willing to relocate
+- 📫 Reach me: [2023268156@student.uitm.edu.my](mailto:2023268156@student.uitm.edu.my) · [LinkedIn](https://www.linkedin.com/in/muhammad-zulkharith-zakwan-mohd-zulkhairil-anwar-5930b83a9/)
 
 ## 🛠️ Tech Universe
 
@@ -22,6 +24,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=E38D13)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
