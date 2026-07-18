@@ -33,18 +33,10 @@
 
 <div align="center">
 
-[![HireHub](https://github-readme-stats.vercel.app/api/pin/?username=Zack1ns&repo=hirehub&bg_color=0d1117&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9&border_color=30363d)](https://github.com/Zack1ns/hirehub)
+[![HireHub](https://github-readme-stats.zohan.tech/api/pin/?username=Zack1ns&repo=hirehub&bg_color=0d1117&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9&border_color=30363d)](https://github.com/Zack1ns/hirehub)
 
 **💼 HireHub** — a two-sided job portal where a hand-rolled Random Forest
 (no ML libraries!) predicts an applicant's best-fit career role, with client-side inference.
-
-</div>
-
-## 🏆 Trophy Shelf
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zack1ns&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
 
 </div>
 
@@ -52,8 +44,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zack1ns&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9&ring_color=8b5cf6" alt="GitHub stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack1ns&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Top languages" height="170"/>
+<img src="https://github-readme-stats.zohan.tech/api?username=Zack1ns&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9&ring_color=8b5cf6" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Zack1ns&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Top languages" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=Zack1ns&hide_border=true&background=0d1117&ring=8b5cf6&fire=38bdf8&currStreakLabel=8b5cf6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub streak" height="170"/>
 
