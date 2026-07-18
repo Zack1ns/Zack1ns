@@ -40,6 +40,14 @@
 
 </div>
 
+## 🏆 Trophy Shelf
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Zack1ns&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
+
+</div>
+
 ## 📊 Mission Stats
 
 <div align="center">
@@ -48,6 +56,22 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack1ns&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Top languages" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=Zack1ns&hide_border=true&background=0d1117&ring=8b5cf6&fire=38bdf8&currStreakLabel=8b5cf6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub streak" height="170"/>
+
+</div>
+
+## 📡 Signal Trace
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zack1ns&bg_color=0d1117&color=8b5cf6&line=38bdf8&point=c9d1d9&area=true&area_color=1e1b4b&hide_border=true" alt="Contribution activity graph" width="95%"/>
+
+</div>
+
+## 🐍 Cosmic Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Zack1ns/Zack1ns/output/github-snake-dark.svg" alt="Contribution snake animation" width="95%"/>
 
 </div>
 
