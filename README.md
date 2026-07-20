@@ -44,6 +44,20 @@
 
 </div>
 
+## 🛸 Academic Projects
+
+Course & group projects I've collaborated on:
+
+<div align="center">
+
+[![Dental-Service](https://github-readme-stats.zohan.tech/api/pin/?username=Farepun&repo=Dental-Service&bg_color=0d1117&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9&border_color=30363d)](https://github.com/Farepun/Dental-Service)
+[![ConcertTicketingSystem](https://github-readme-stats.zohan.tech/api/pin/?username=rafharo&repo=ConcertTicketingSystem&bg_color=0d1117&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9&border_color=30363d)](https://github.com/rafharo/ConcertTicketingSystem)
+
+</div>
+
+- 🦷 **[Dental-Service](https://github.com/Farepun/Dental-Service)** — a dental clinic service web system (CSC584 group project · HTML, CSS, SCSS, JavaScript, PHP)
+- 🎟️ **[Concert Ticketing System](https://github.com/rafharo/ConcertTicketingSystem)** — a concert ticket booking system built as a course group project
+
 ## 📊 Mission Stats
 
 <div align="center">
