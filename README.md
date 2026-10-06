@@ -55,6 +55,18 @@ A digital Borang LPPM KEW 20: applicant → supervisor → approver workflow, Ba
 
 </div>
 
+## 🧭 Now & Next
+
+<div align="center">
+
+| 🔥 Now | 🌱 Learning | 🔭 Next |
+|:--|:--|:--|
+| Tourism Malaysia travel system | Laravel 13 & Livewire 4 | Deploying a real project end-to-end |
+| HireHub career predictor | Machine learning in production | A data-analytics internship |
+| Bahasa Melayu & phone-first UI | Statistics for decisions | Contributing to open source |
+
+</div>
+
 ## 🛸 Academic Projects
 
 Course & group projects I've collaborated on:
@@ -82,7 +94,7 @@ Course & group projects I've collaborated on:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zack1ns&bg_color=0d1117&color=8b5cf6&line=38bdf8&point=c9d1d9&area=true&area_color=1e1b4b&hide_border=true" alt="Contribution activity graph" width="95%"/>
+<img src="https://ghchart.rshah.org/8b5cf6/Zack1ns" alt="Contribution activity graph" width="95%"/>
 
 </div>
 
